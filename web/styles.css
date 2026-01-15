@@ -499,6 +499,18 @@ body {
     z-index: 1;
 }
 
+.info-box a {
+    color: #33ff33;
+    text-decoration: none;
+    border: 1px solid #33ff33;
+    padding: 0.2rem 0.5rem;
+    margin-left: 0.5rem;
+}
+
+.info-box a:hover {
+    background: rgba(51, 255, 51, 0.15);
+}
+
 
 /* ============================================
    COMMAND LOG
