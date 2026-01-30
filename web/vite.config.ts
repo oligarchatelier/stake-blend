@@ -16,7 +16,7 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/stake-blend',
+  base: '/',
   define: {
     global: 'globalThis',
   },
